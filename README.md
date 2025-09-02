@@ -1,11 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b0c4de,100:e0eaff&height=180&text=Hanbi's%20Github&animation=fadeIn&fontColor=2c2c2c&fontSize=60" alt="Hanbi's Github Animation Header"/>
+  <img src="https://i.imgur.com/r62Kq6H.gif" alt="Floating Capybara" width="180" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanbi10&count=10&layout=compact&title_color=4a4f57&text_color=5a5f66&bg_color=f5f7f9&border_color=d0d3d6" alt="Top Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=hanbi10&show_icons=true&title_color=4a4f57&text_color=5a5f66&bg_color=f5f7f9&border_color=d0d3d6&hide_border=true" alt="GitHub Stats"/>
-</p>
+<div align="center">
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanbi10&count=10&layout=compact&title_color=4a4f57&text_color=5a5f66&bg_color=f5f7f9&border_color=d0d3d6" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=hanbi10&show_icons=true&title_color=4a4f57&text_color=5a5f66&bg_color=f5f7f9&border_color=d0d3d6&hide_border=true" alt="GitHub Stats"/>
+  </p>
+</div>
 
 <br>
 
