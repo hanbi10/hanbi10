@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e6e8eb,100:7d8a96&height=180&text=Hanbi's%20Github&animation=fadeIn&fontColor=2c2c2c&fontSize=60" />
+</div>
 
-<!--
-**hanbi10/hanbi10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanbi10&count=10&layout=compact&title_color=4a4f57&text_color=5a5f66&bg_color=f5f7f9&border_color=d0d3d6" />
+  <a href="https://solved.ac/profile/hanbi10"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hanbi10"/>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/devxb/gitanimals" target="_blank">
+    <img src="https://render.gitanimals.org/farms/hanbi10"
+          alt="GitAnimals"
+  </a>
+</div>
